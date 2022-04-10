@@ -1,0 +1,22 @@
+{
+	"name": "node-file-manager",
+	"version": "1.0.0",
+	"description": "High level API for File Management in Node.js",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ajilpappachan/node-file-manager.git"
+	},
+	"keywords": [
+		"file-manager"
+	],
+	"author": "Ajil Pappachan",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ajilpappachan/node-file-manager/issues"
+	},
+	"homepage": "https://github.com/ajilpappachan/node-file-manager#readme",
+	"dependencies": {
+		"mime": "^3.0.0"
+	}
+}
